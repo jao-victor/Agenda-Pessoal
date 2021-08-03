@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="imagemAlertLogin">
+    <file>attention.png</file>
+  </qresource>
+</RCC>
